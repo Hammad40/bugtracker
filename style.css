@@ -1,0 +1,44 @@
+body {
+	background-color: #F9F7F7;
+}
+
+h1 {
+	text-align: center;
+}
+
+.container {
+	color: #112D4E;
+}
+
+.jumbotron {
+	background-color: #3F72AF!important;
+
+}
+
+.form-group {
+	color: #FAF2F2;
+}
+
+.btn {
+	margin-right: 15px;
+}
+.jumbotronHeading {
+	text-align: center;
+	color: #FAF2F2;
+
+}
+.ards {
+	margin: 4%;
+	padding: 20px;
+	background-color: #DBE2EF;
+	border-radius: 10px;
+	font-weight: bold;
+}
+
+
+
+
+.footer {
+	text-align: center;
+	color: black;
+}
